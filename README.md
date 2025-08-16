@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of **["MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation"](https://arxiv.org/abs/2410.02458)** by Gurucharan Marthi Krishna Kumar, Aman Chadha, Janine Mendola, and Amir Shmuel.
 
-**[10.07.2025]**: ⭐ Our paper was accepted to the CVAMD Workshop (Computer Vision for Automated Medical Diagnosis) at the 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025).
+**[10.07.2025]**: ⭐ Our paper was accepted to the CVAMD Workshop (Computer Vision for Automated Medical Diagnosis) at the 2025 IEEE/CVF International Conference on Computer Vision (ICCVW 2025).
 
 [![arXiv](https://img.shields.io/badge/arXiv-2410.02458-b31b1b.svg)](https://arxiv.org/abs/2410.02458)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
